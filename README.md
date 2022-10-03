@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Yash! 👋</h1>
 
 - 🎓 Computer Engineering student at [York University](https://lassonde.yorku.ca/)
-- 💬 Ask me about cricket 🏏 , swimming 🏊 , Traveling ✈️ , or Ping Pong 🏓 via my [linkedin] (https://www.linkedin.com/in/yashcontractor/)
+- 💻 Former Software Developer Intern at [Flinks](https://flinks.com/)
+- 💬 Ask me about cricket 🏏 , soccer ⚽ (Football* for those who are triggered😜) , Traveling ✈️ , or Ping Pong 🏓
 - 🎵 Let me know if you like Drake , The Weeknd, or Post Malone and maybe we could give each other music recommendations
-- 😋 I'm currently working on a project called Fooder that's meant for users having difficulty choosing what to eat. It allows users to swipe through dishes (based off
-nearby restaurants and dietary restrictions, etc.) and match them with a restaurant
+- 😋 I'm currently working on a project called votify that allows users to have a more secure and reliable way to vote using the blockchain
 
 ---
 ### 💻 Languages
@@ -35,10 +35,5 @@ nearby restaurants and dietary restrictions, etc.) and match them with a restaur
 </div>
 
 ---
-### 👯 Feel free to connect with me!
-<div class="row>
-  <div class="col">
-    <img href="http://www.kush.bhagatworld.com" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <img href="https://open.spotify.com/user/xxpfnpw2x52q03lr6bfimzb1c?si=__v0YPBLTi6VmRkSzCyufw" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
-  </div>  
-</div>
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:yashcontractor009@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)]([https://www.linkedin.com/in/yashcontractor/])
