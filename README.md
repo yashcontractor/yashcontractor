@@ -2,7 +2,7 @@
 
 - 🎓 Computer Engineering student at [York University](https://lassonde.yorku.ca/)
 - 💻 Former Software Developer Intern at [Flinks](https://flinks.com/)
-- 💬 Ask me about cricket 🏏 , soccer ⚽ (Football* for those who are triggered😜) , Traveling ✈️ , or Ping Pong 🏓
+- 💬 Let's talk about cricket 🏏 , soccer ⚽ (Football* for those who are triggered😜) , Traveling ✈️ , or Ping Pong 🏓
 - 🎵 Feel free to drop any music recommendations! I love Kanye West, Drake, The Weeknd and Pink Floyd!
 - 😋 I'm currently working on a project called votify that allows users to have a more secure and reliable way to vote using the blockchain
 
