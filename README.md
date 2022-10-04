@@ -26,11 +26,15 @@
 
 <div class="row>
   <div class="col">
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
     <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-    <img src="https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />    
-    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>             
+    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/opengl-%235586A4.svg?&style=for-the-badge&logo=opengl&logoColor=white" />
+    <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+    
   </div>  
 </div>
 
