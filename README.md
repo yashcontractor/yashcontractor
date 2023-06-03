@@ -40,5 +40,5 @@
 
 ---
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:yashcontractor009@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)]([https://www.linkedin.com/in/yashcontractor/])
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/yashcontractor/)
 [![GitHub deepshikhayadav](https://img.shields.io/github/followers/yashcontractor?label=follow&style=social&logoColor=black)](https://github.com/yashcontractor)
