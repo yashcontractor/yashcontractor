@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Yash! 👋</h1>
 
-- 🎓 Computer Engineering student at [York University](https://lassonde.yorku.ca/)
+- 🎓 Computer Engineering alumni from [York University](https://lassonde.yorku.ca/)
 - 💻 Former Software Developer Intern at [Flinks](https://flinks.com/)
 - 💬 Let's talk about cricket 🏏 , soccer ⚽ (Football* for those who are triggered😜) , Traveling ✈️ , or Ping Pong 🏓
 - 🎵 Feel free to drop any music recommendations! I love Kanye West, Drake, The Weeknd and Pink Floyd!
